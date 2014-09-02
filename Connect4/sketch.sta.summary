@@ -1,0 +1,253 @@
+------------------------------------------------------------
+TimeQuest Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow Model Setup 'Yg.Draw2'
+Slack : -65.292
+TNS   : -1045.889
+
+Type  : Slow Model Setup 'Yg.Gameover'
+Slack : -64.497
+TNS   : -1016.940
+
+Type  : Slow Model Setup 'Yg.DROP2'
+Slack : -5.074
+TNS   : -33.880
+
+Type  : Slow Model Setup 'DoneS'
+Slack : -3.728
+TNS   : -3.728
+
+Type  : Slow Model Setup 'CLOCK_50'
+Slack : -3.201
+TNS   : -177.708
+
+Type  : Slow Model Setup 'Yg.DoneDrop'
+Slack : -2.945
+TNS   : -2.945
+
+Type  : Slow Model Setup 'Yp.Drop'
+Slack : -1.797
+TNS   : -1.797
+
+Type  : Slow Model Setup 'KEY[0]'
+Slack : 1.236
+TNS   : 0.000
+
+Type  : Slow Model Setup 'VGA|mypll|altpll_component|pll|clk[0]'
+Slack : 31.090
+TNS   : 0.000
+
+Type  : Slow Model Hold 'Yg.Gameover'
+Slack : -3.650
+TNS   : -52.762
+
+Type  : Slow Model Hold 'KEY[0]'
+Slack : -3.311
+TNS   : -5.619
+
+Type  : Slow Model Hold 'Yg.Draw2'
+Slack : -2.855
+TNS   : -34.953
+
+Type  : Slow Model Hold 'CLOCK_50'
+Slack : -2.537
+TNS   : -83.465
+
+Type  : Slow Model Hold 'Yg.DoneDrop'
+Slack : -0.954
+TNS   : -0.954
+
+Type  : Slow Model Hold 'Yp.Drop'
+Slack : -0.809
+TNS   : -0.809
+
+Type  : Slow Model Hold 'VGA|mypll|altpll_component|pll|clk[0]'
+Slack : 0.516
+TNS   : 0.000
+
+Type  : Slow Model Hold 'Yg.DROP2'
+Slack : 1.149
+TNS   : 0.000
+
+Type  : Slow Model Hold 'DoneS'
+Slack : 3.592
+TNS   : 0.000
+
+Type  : Slow Model Recovery 'VGA|mypll|altpll_component|pll|clk[0]'
+Slack : -1.961
+TNS   : -34.782
+
+Type  : Slow Model Recovery 'CLOCK_50'
+Slack : -0.427
+TNS   : -3.613
+
+Type  : Slow Model Removal 'CLOCK_50'
+Slack : -0.060
+TNS   : -0.300
+
+Type  : Slow Model Removal 'VGA|mypll|altpll_component|pll|clk[0]'
+Slack : 1.769
+TNS   : 0.000
+
+Type  : Slow Model Minimum Pulse Width 'KEY[0]'
+Slack : -1.222
+TNS   : -11.778
+
+Type  : Slow Model Minimum Pulse Width 'DoneS'
+Slack : 0.500
+TNS   : 0.000
+
+Type  : Slow Model Minimum Pulse Width 'Yg.DROP2'
+Slack : 0.500
+TNS   : 0.000
+
+Type  : Slow Model Minimum Pulse Width 'Yg.DoneDrop'
+Slack : 0.500
+TNS   : 0.000
+
+Type  : Slow Model Minimum Pulse Width 'Yg.Draw2'
+Slack : 0.500
+TNS   : 0.000
+
+Type  : Slow Model Minimum Pulse Width 'Yg.Gameover'
+Slack : 0.500
+TNS   : 0.000
+
+Type  : Slow Model Minimum Pulse Width 'Yp.Drop'
+Slack : 0.500
+TNS   : 0.000
+
+Type  : Slow Model Minimum Pulse Width 'CLOCK_50'
+Slack : 7.620
+TNS   : 0.000
+
+Type  : Slow Model Minimum Pulse Width 'VGA|mypll|altpll_component|pll|clk[0]'
+Slack : 17.873
+TNS   : 0.000
+
+Type  : Fast Model Setup 'Yg.Draw2'
+Slack : -28.367
+TNS   : -451.251
+
+Type  : Fast Model Setup 'Yg.Gameover'
+Slack : -27.990
+TNS   : -437.450
+
+Type  : Fast Model Setup 'Yg.DROP2'
+Slack : -1.895
+TNS   : -12.541
+
+Type  : Fast Model Setup 'DoneS'
+Slack : -1.810
+TNS   : -1.810
+
+Type  : Fast Model Setup 'Yg.DoneDrop'
+Slack : -1.328
+TNS   : -1.328
+
+Type  : Fast Model Setup 'CLOCK_50'
+Slack : -1.006
+TNS   : -43.794
+
+Type  : Fast Model Setup 'Yp.Drop'
+Slack : -0.569
+TNS   : -0.569
+
+Type  : Fast Model Setup 'KEY[0]'
+Slack : 1.226
+TNS   : 0.000
+
+Type  : Fast Model Setup 'VGA|mypll|altpll_component|pll|clk[0]'
+Slack : 35.880
+TNS   : 0.000
+
+Type  : Fast Model Hold 'Yg.Gameover'
+Slack : -1.988
+TNS   : -28.495
+
+Type  : Fast Model Hold 'KEY[0]'
+Slack : -1.656
+TNS   : -2.881
+
+Type  : Fast Model Hold 'Yg.Draw2'
+Slack : -1.611
+TNS   : -20.614
+
+Type  : Fast Model Hold 'CLOCK_50'
+Slack : -1.588
+TNS   : -106.833
+
+Type  : Fast Model Hold 'Yg.DoneDrop'
+Slack : -0.430
+TNS   : -0.430
+
+Type  : Fast Model Hold 'Yp.Drop'
+Slack : -0.339
+TNS   : -0.339
+
+Type  : Fast Model Hold 'VGA|mypll|altpll_component|pll|clk[0]'
+Slack : 0.237
+TNS   : 0.000
+
+Type  : Fast Model Hold 'Yg.DROP2'
+Slack : 0.961
+TNS   : 0.000
+
+Type  : Fast Model Hold 'DoneS'
+Slack : 2.316
+TNS   : 0.000
+
+Type  : Fast Model Recovery 'VGA|mypll|altpll_component|pll|clk[0]'
+Slack : -0.936
+TNS   : -16.696
+
+Type  : Fast Model Recovery 'CLOCK_50'
+Slack : 0.141
+TNS   : 0.000
+
+Type  : Fast Model Removal 'CLOCK_50'
+Slack : -0.057
+TNS   : -0.285
+
+Type  : Fast Model Removal 'VGA|mypll|altpll_component|pll|clk[0]'
+Slack : 1.107
+TNS   : 0.000
+
+Type  : Fast Model Minimum Pulse Width 'KEY[0]'
+Slack : -1.222
+TNS   : -2.258
+
+Type  : Fast Model Minimum Pulse Width 'DoneS'
+Slack : 0.500
+TNS   : 0.000
+
+Type  : Fast Model Minimum Pulse Width 'Yg.DROP2'
+Slack : 0.500
+TNS   : 0.000
+
+Type  : Fast Model Minimum Pulse Width 'Yg.DoneDrop'
+Slack : 0.500
+TNS   : 0.000
+
+Type  : Fast Model Minimum Pulse Width 'Yg.Draw2'
+Slack : 0.500
+TNS   : 0.000
+
+Type  : Fast Model Minimum Pulse Width 'Yg.Gameover'
+Slack : 0.500
+TNS   : 0.000
+
+Type  : Fast Model Minimum Pulse Width 'Yp.Drop'
+Slack : 0.500
+TNS   : 0.000
+
+Type  : Fast Model Minimum Pulse Width 'CLOCK_50'
+Slack : 7.620
+TNS   : 0.000
+
+Type  : Fast Model Minimum Pulse Width 'VGA|mypll|altpll_component|pll|clk[0]'
+Slack : 17.873
+TNS   : 0.000
+
+------------------------------------------------------------

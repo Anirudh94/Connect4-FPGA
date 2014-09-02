@@ -1,0 +1,27 @@
+
+State Machine - |sketch|Yg
+Name Yg.drawWin Yg.Verify Yg.assignVal Yg.Gameover Yg.Check4 Yg.Erase2 Yg.Draw2 Yg.WAIT2 Yg.DoneDrop Yg.DROP2 Yg.IDLE2 
+Yg.IDLE2 0 0 0 0 0 0 0 0 0 0 0 
+Yg.DROP2 0 0 0 0 0 0 0 0 0 1 1 
+Yg.DoneDrop 0 0 0 0 0 0 0 0 1 0 1 
+Yg.WAIT2 0 0 0 0 0 0 0 1 0 0 1 
+Yg.Draw2 0 0 0 0 0 0 1 0 0 0 1 
+Yg.Erase2 0 0 0 0 0 1 0 0 0 0 1 
+Yg.Check4 0 0 0 0 1 0 0 0 0 0 1 
+Yg.Gameover 0 0 0 1 0 0 0 0 0 0 1 
+Yg.assignVal 0 0 1 0 0 0 0 0 0 0 1 
+Yg.Verify 0 1 0 0 0 0 0 0 0 0 1 
+Yg.drawWin 1 0 0 0 0 0 0 0 0 0 1 
+
+State Machine - |sketch|Yp
+Name Yp.drawPlayer Yp.Idle Yp.Drop Yp.WAIT Yp.LEFT Yp.RIGHT Yp.Erase Yp.Reset Yp.Draw Yp.ultReset 
+Yp.ultReset 0 0 0 0 0 0 0 0 0 0 
+Yp.Draw 0 0 0 0 0 0 0 0 1 1 
+Yp.Reset 0 0 0 0 0 0 0 1 0 1 
+Yp.Erase 0 0 0 0 0 0 1 0 0 1 
+Yp.RIGHT 0 0 0 0 0 1 0 0 0 1 
+Yp.LEFT 0 0 0 0 1 0 0 0 0 1 
+Yp.WAIT 0 0 0 1 0 0 0 0 0 1 
+Yp.Drop 0 0 1 0 0 0 0 0 0 1 
+Yp.Idle 0 1 0 0 0 0 0 0 0 1 
+Yp.drawPlayer 1 0 0 0 0 0 0 0 0 1 
